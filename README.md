@@ -24,7 +24,7 @@ This project showcases core Azure concepts: **Resource Groups, Virtual Machines,
 A resource group named **`loganalytics-rg`** was used (pre-created in the Azure sandbox).
 
 📸 *Screenshot:* Resource Group overview  
-![Resource Group](screenshots/resource-group.png)
+![Resource Group](https://github.com/partz2510/azure-fundamanetals-labs/blob/main/screenshots/resource-group.png?raw=true)
 
 ---
 
