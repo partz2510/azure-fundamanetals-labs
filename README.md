@@ -37,7 +37,7 @@ An **Ubuntu Server 22.04 LTS** VM was created and deployed successfully.
 - Inbound ports: SSH (22)
 
 📸 *Screenshot:* Deployment success page  
-![VM Deployment](screenshots/vm-deployment.png)
+![VM Deployment](https://github.com/partz2510/azure-fundamanetals-labs/blob/main/screenshots/vm-deployment.png?raw=true)
 
 ---
 
@@ -46,8 +46,10 @@ Enabled **Azure Monitor / VM Insights** and linked to the default Log Analytics 
 After ~15 minutes, CPU, memory, and disk metrics began populating.
 
 📸 *Screenshot:* VM Insights graphs showing active data  
-![VM Monitoring](screenshots/vm-insights.png)
-
+![VM Monitoring](https://github.com/partz2510/azure-fundamanetals-labs/blob/main/screenshots/vm-insights1.png?raw=true)
+![VM Monitoring](https://github.com/partz2510/azure-fundamanetals-labs/blob/main/screenshots/vm-insights2.png?raw=true)
+![VM Monitoring](https://github.com/partz2510/azure-fundamanetals-labs/blob/main/screenshots/vm-insights3.png?raw=true)
+![VM Monitoring](https://github.com/partz2510/azure-fundamanetals-labs/blob/main/screenshots/vm-insights4.png?raw=true)
 ---
 
 ### 4️⃣ Create Storage Account
@@ -59,7 +61,7 @@ Created a **Standard LRS Azure Blob Storage** account to demonstrate storage set
 - Access Tier: Hot  
 
 📸 *Screenshot:* Storage Account Overview  
-![Storage Account](screenshots/storage-overview.png)
+![Storage Account](https://github.com/partz2510/azure-fundamanetals-labs/blob/main/screenshots/storage-overview.png?raw=true)
 
 ---
 
