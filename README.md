@@ -65,6 +65,17 @@ Created a **Standard LRS Azure Blob Storage** account to demonstrate storage set
 
 ---
 
+
+### 5️⃣ Cost Management (Bonus)
+Reviewed **Cost Management + Billing** to verify usage and free-trial credit visibility for the subscription.
+
+- Subscription: *Azure subscription 1*
+- Credit: *US$200 free credit remaining* (trial)
+- Spending trend & forecast: visible (currently $0 for demo)
+
+📸 *Screenshot:* Cost Management overview  
+![Cost Overview](https://github.com/partz2510/azure-fundamanetals-labs/blob/main/screenshots/cost-overview.png?raw=true)
+
 ## 📊 Key Learnings
 ✅ Understood the structure of Azure Resource Groups  
 ✅ Learned how to deploy and monitor a virtual machine  
@@ -76,7 +87,6 @@ Created a **Standard LRS Azure Blob Storage** account to demonstrate storage set
 ## 🧹 Clean-up
 All resources were deleted after testing to avoid costs:
 ```bash
-az group delete --name loganalytics-rg --yes --no-wait
 🧠 Skills Demonstrated
 Azure Portal navigation
 
